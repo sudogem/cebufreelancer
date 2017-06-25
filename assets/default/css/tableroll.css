@@ -1,0 +1,16 @@
+.tableroll, .tableroll td { border-collapse:collapse ; font:15px normal Arial, Helvetica, sans-serif}
+.tableroll	th { color:#000 ; text-align:left ; background:#9DC9E0 ; padding-left:15px ; border-bottom:1px solid #333 ; }
+.r0 td , .r0 {  background:#fff  ;  } 
+.r1 td , .r1 { /*background:#D4DB9E ; background:#DEE6F3 ; background:#BFD5E9 ; */background:#E6E9F5 ; }
+.r1 td , .r0 td { padding:5px 2px ; border-bottom:1px solid #BDC7D8 ; } 
+.tableroll th { font:bold 14px Arial, Helvetica, sans-serif ; padding:4px 0;  }		
+#joblisting a:link , #joblisting a:active {  text-decoration:none ; color:#CF3E39; font:bold 12px Arial, Verdana,Helvetica, sans-serif }
+#joblisting a:visited { color:#CF624D; font:normal 13px Arial, Verdana,Helvetica, sans-serif; text-decoration:none; }
+#joblisting a:hover { text-decoration:underline; color:#D2420D ;} 
+#joblisting .c { color:#000 !important ; }
+#joblisting .d { font:normal 13px Arial, Helvetica, sans-serif ;}
+.inbox a:link {color:#000;font:bold 13px Arial,Helvetica,sans-serif !important;text-decoration:none;}
+.inbox a:visited{color:#000;text-decoration:none;font:normal 12px Arial, Helvetica, sans-serif }
+.inbox tr.visited{background:#E6E9F5;color:#000;text-decoration:none;}
+.inbox td{border-bottom:1px solid #ccc;padding:0 2px;font:normal 12px Arial, Helvetica, sans-serif}
+

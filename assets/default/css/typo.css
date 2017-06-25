@@ -1,0 +1,47 @@
+
+body { font-family: Georgia,serif, "Times New Roman", Times, serif;  } 
+#featuredcomp h1 , #cats h1 , #joblisting h1{ font:20px arial, "Times New Roman", Times, serif ; }
+
+p { font:normal 14px Arial, Verdana !important; }
+/* set to 0 fixed */
+#featuredcomp h1 , #cats h1 ,#joblisting h1 , 
+	#viewproject h1, #viewproject h2 ,  #viewproject p , #viewproject h4, #viewproject h5 , .drophead { margin:0; padding:0 ;}
+
+img { border:0px;}
+
+/****** left elements */
+#viewproject h1 { font-size:20px; }
+#viewproject h2 { font-size:18px; }
+#viewproject h3 { font:normal 13px Arial, Helvetica, sans-serif; }
+#viewproject h4 { font-size:20px; font-family:"Times New Roman", Times, arial , serif; font-weight:bold ; }
+#viewproject p { font-size:13px ; line-height:1.75em; }
+
+/* h1 with a tags */
+#cats a h1 , .drophead  { color:#000 !important ;  }
+.drophead { font:bold 18px  Arial, Helvetica, sans-serif !important;  }
+.h2 { font:normal 20px Arial, Helvetica, sans-serif ; background:#FFFFCC }
+
+/****** right elements */
+#cats ul li { font:bold 12px Arial, Helvetica, sans-serif; margin-left:20px; }
+#cats a  { text-decoration:none ; }
+#cats ul li a , ul#catlist li a:visited  { font-size:12px;    border:0px ; }
+#cats ul li a:hover  { text-decoration:underline;  }
+/* footer */
+#tail a:link, #tail a:visited{ font:normal 15px Arial, Helvetica, sans-serif !important; color:#ED1B24; text-decoration:none; }
+#tail a:hover { text-decoration:underline; }
+/* set fonts */		
+.red { color: #CE1326 !important ; }
+.date_posted , .postype{ color:#585959 ; font:bold 15px Arial, Helvetica, sans-serif ; padding:0 0 0 0px ; }
+.h1, .h3 a { font:normal 20px Georgia, "Times New Roman", Times, serif; }
+.p1 { font:normal 12px Arial, Helvetica, sans-serif !important; margin:0; padding:0}
+.p2 { font:normal 14px Arial, Helvetica, sans-serif !important; line-height:1.5em !important; }
+.f { float:left; margin:0; padding:0;   }
+
+.note1{border:1px solid #666;color:#000;padding:5px;width:487px;font:normal 14px Arial,Helvetica,sans-serif;background:#F0F0D8;}.rpt_v{float:right;padding:0 0 0 10px;}.rpt_v a:link,.rpt_v a:visited{color:#36F;}.rpt_v a:hover{color:#333;}.bid_accepted{font-weight:bold;color:#393;}.bid_waiting{font-weight:bold;color:#C30;}#viewproject h3,.h6,.p1{font:normal 13px Arial,Helvetica,sans-serif;}.h3,.p1,.p2,.f{margin:0;padding:0;}.prev,.rpt_v{font:bold 13px Arial,Helvetica,sans-serif!important;}.report_this_project h1,.h1{font:normal 20px Georgia,"Times New Roman",Times,serif!important;}.announcement p,.p3{font:normal 15px Georgia,"Times New Roman",Times,serif;}#head2 h1,.h3{font:normal 17px Arial,Helvetica,sans-serif;}.h2,.em1,.prev,.note1{background:#FFC;}#tail a:link,.msg{font:normal 12px Arial,Helvetica,sans-serif;}.p1,.p2{line-height:1.6em;}a.lnk1,#cats a{text-decoration:none;}.announcement p,.note1{line-height:1.5em!important;}.h3,.f{float:left;}
+
+.rpt_v{ float:right; padding:0 0 0 10px; font:bold 14px Arial, Helvetica, sans-serif !important ;   }
+
+.entry{ line-height:1.5em !important; font-size: 13px }
+.title-project { font:bold 15px Arial, Helvetica, sans-serif !important; margin:0; padding:0}
+
+.numyears { font-size:12.5px; color:#999 }

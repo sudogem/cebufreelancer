@@ -1,0 +1,19 @@
+/* CSS Document */
+#rssdata { width:50%; padding-left:10px ; margin-left:10px ; border:0px solid red ; float:left; text-align:left;  }
+#rssdata h1, #rssdata h1 a:active, #rssdata h1 a:visited { text-decoration:none; color:#000 ; font:normal 22px Arial, Helvetica, sans-serif }
+#rssdata h1 a:hover { text-decoration:underline ; }
+#rssdata h3 { font:bold 15px Arial, Helvetica, sans-serif}
+#rssdata p { font:normal 15px Arial, Helvetica, sans-serif !important; line-height:1.4em !important; } 
+#rssdata img { float:right; padding:5px; border:1px solid #ccc; background:#eee ; margin:5px !important;}
+#rssdata ul , #rssdata ol  { list-style-position:inside; font:normal 14px Arial, Helvetica, sans-serif !important}
+#rssdata ul li { list-style-type:disc ; line-height:1.4em !important;  }
+#rssdata .feedflare img { background:#fff !important ; border:0px ; float:left ; clear:right   }
+#rssdata .feedflare a, #rssdata .feedflare a:visited { border:1px solid #fff ; float:left; }
+#rssdata .feedflare a:hover { border:1px solid #0066FF; display:block ; float:left} 
+
+#rss_rightcol { float:left; width:25% ; border:0px solid red ; margin-left:13px ;padding-left:10px ;  text-align:left; }
+#rss_rightcol h1 { font:normal 13px Arial, Helvetica, sans-serif !important; line-height:1.5em !important; }
+#rss_rightcol ol { margin-left:20px; }
+#rss_rightcol a:link { color:#336699 ; font:bold 13px Arial, Helvetica, sans-serif; text-decoration:none ;}
+#rss_rightcol a:active, #rss_rightcol a:visited { color:#7495C6; text-decoration:none ; } 
+#rss_rightcol a:hover {  text-decoration:underline ;  }

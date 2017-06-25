@@ -1,0 +1,67 @@
+#minitabs {
+	margin: 0;
+	margin-bottom:10px;
+	padding: 0 0 20px 10px;
+	border-bottom: 1px solid #696;
+	}
+
+#minitabs li {
+	margin: 0; 
+	padding: 0;
+	display: inline;
+	list-style-type: none;
+	}
+	
+#minitabs a:link, #minitabs a:visited {
+	float: left;
+	font-size: 10px;
+	line-height: 14px;
+	font-weight: bold;
+	margin: 0 10px 4px 10px;
+	padding-bottom: 2px;
+	text-decoration: none;
+	color: #9c9;
+	}
+
+#minitabs a.active:link, #minitabs a.active:visited, #minitabs a:hover {
+	border-bottom: 4px solid #696;
+	padding-bottom: 2px;
+	background: #fff;
+	color: #363;
+	}
+
+/* relative font-size version */
+
+#miniflex {
+	width: 100%;
+	float: left;
+	font-size: small; /* could be specified at a higher level */
+	margin: 0;
+	padding: 0 10px 0 10px;
+	border-bottom: 1px solid #333;
+	margin-bottom: 15px;	
+	}
+
+#miniflex li {
+	float: left;
+	margin: 0; 
+	padding: 0;
+	display: inline;
+	list-style: none;
+	}
+	
+#miniflex a:link, #miniflex a:visited {
+	float: left;
+	font-size: 85%;
+	line-height: 20px;
+	font-weight: bold;
+	margin: 0 10px 0 10px;
+	text-decoration: none;
+	color: #999;
+	}
+
+#miniflex a.active:link, #miniflex a.active:visited, #miniflex a:hover {
+	border-bottom: 4px solid #333;
+	padding-bottom: 2px;
+	color: #333;
+	}

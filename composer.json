@@ -1,0 +1,16 @@
+{
+    "name": "sudogem/cebufreelancer",
+    "description": "sample web app using Codeigniter & MySQL",
+    "type": "project",
+    "require": {
+        "php": "^5.6",
+        "ext-mysql": "*",
+        "ext-mysqli": "*"
+    },
+    "authors": [
+        {
+            "name": "Arman Ortega",
+            "email": "sudogem@gmail.com"
+        }
+    ]
+}

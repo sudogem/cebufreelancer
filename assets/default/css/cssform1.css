@@ -1,0 +1,77 @@
+ 
+#marginForm fieldset
+{
+	display: block;
+	margin: 0 0 1em 0;
+	border: 0 solid #FFFFFF;
+	border-top: 1px solid #000000;
+ 	padding: 0 1em 1em 1em;
+}
+
+#marginForm fieldset.radio
+{
+	margin: 0 0 0 -1em;
+	border: 0 solid #FFFFFF;
+}
+
+#marginForm fieldset.radio input
+{
+	position: static;
+	clear: both;
+	float: left;
+}
+
+#marginForm fieldset.radio label
+{
+	position: relative;
+	top: -1.25em;
+	display: inline;
+	width: auto;
+	margin: 0 0 0 8em;
+	font-weight: bold;
+	font-weight: normal;
+}
+
+#marginForm fieldset.radio legend
+{
+	float: left;
+	font-weight: bold;
+}
+
+#marginForm input, #marginForm textarea
+{
+	position: relative;
+	top: -1.4em;
+	left: 8em;
+	display: block;
+}
+
+#marginForm input.submit
+{
+	clear: both;
+	top: 0;
+}
+
+#marginForm label
+{
+	clear: both;
+	float: left;
+	display: block;
+	width: 5em;
+	margin-top: -1em;
+	font-weight: bold;
+}
+
+#marginForm label.first
+{
+	margin-top: 1em;
+}
+
+#marginForm select
+{
+	position: relative;
+	top: -1.4em;
+	left: 8em;
+	display: block;
+}
+

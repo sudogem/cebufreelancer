@@ -1,0 +1,27 @@
+/* CSS Document */
+
+#emailwr {
+margin:0 auto;
+width:670px;
+}
+#emailwr div.logos {
+background:url(http://farm4.static.flickr.com/3102/2612569739_f31e3c57b9_o.jpg) 0 0 ;
+width:670px;
+height:116px;
+margin-bottom:20px;
+}
+#emailwr h1.h1, #emailwr p.p2 {
+text-indent:-9999px;
+}
+#emailwr h1.h1 {
+font:bold 30px Georgia, "Times New Roman", Times, serif ; margin:0px; ;
+}
+#emailwr {
+border:5px solid #C9D6DC ;
+padding:10px;
+}
+#emailwr p.p1, #emailwr p.p2 {
+font:normal 14px Arial, Helvetica, sans-serif ; line-height:1.3em; margin:0px;
+}
+
+
