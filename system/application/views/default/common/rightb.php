@@ -5,15 +5,8 @@
 			<input type="text" name="email"  /><input type="submit" name="sendactcode" value="Send"  />
 		</div>
 		<div id="cats" >
-			
-			<h1 style="display:none">Sponsors</h1>
-			<div class="bannerad"  style="margin-top:4px" ><a href="http://opensolutions101.com/" target="_blank" ><img src="<?= $assets_images ; ?>ads-opensolutions-logo.jpg" alt="open source solutions in Philippines" title="open source solutions in Philippines" /></a></div>
-			<div class="clear" ></div>
-			
-			<div class="bannerad" style="display:none"><a href="http://canobic.com/"  target="_blank" ><img src="<?= $assets_images ; ?>ads-canobic-logo11.gif" alt="Canobic Business Solutions" title="Canobic Business Solutions" /></a></div>
-			
-			<div class="bannerad note" style="display:none" >
-			<p>Do you want to advertise your product with us?<br />Contact us at support[at]cebufreelancer.com</p>
+			<div class="bannerad note">
+			<p>Do you want to advertise your product with us? Kindly contact us at cebufreelancerph [at] gmail.com</p>
 			</div>
 			<div class="clear" >&nbsp;</div>
 			<a href="#" onclick="blocking('catlist','darrow'); return false;" >
