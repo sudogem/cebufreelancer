@@ -6,7 +6,9 @@ An online marketplace for freelancers and employeers. Built using CodeIgniter & 
 * Post a Project   
 * Bid a Project   
 * Create Freelancer Profile   
-* Send Private Message to the Site Member   
+* Report a Scam   
+* Send Private Message to the Buyer   
+* Tell a Friend   
 
 ### Screenshots
 ![Home page](screenshots/homepage.png)   
@@ -15,3 +17,6 @@ An online marketplace for freelancers and employeers. Built using CodeIgniter & 
 PHP   
 CodeIgniter   
 MySQL   
+
+#### Developer
+Cebufreelancer &copy; 2008 Arman Ortega. Released under the MIT License.     
